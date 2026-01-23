@@ -1,0 +1,6 @@
+# Next keys should be supported -
+# Title, Author, Subject, Keywords, Creator, Producer
+Title: Senior C and assembly Developer with 4 years of experience
+Author: Gordon Clark
+# Keep in mind that keywords max length is 256 symbols
+Keywords: 4 years of experience; C; BASIC; Assembly

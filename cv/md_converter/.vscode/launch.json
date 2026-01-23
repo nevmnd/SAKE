@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Generate CV",
+            "type": "python",
+            "request": "launch",
+            "program": "md_converter.py",
+            "args": [
+                "CV.md",
+                "--out-dir",
+                "output",
+                "--out-name",
+                "Gordon_Clark_SW_Engineer.pdf"
+            ]
+        }
+    ]
+}

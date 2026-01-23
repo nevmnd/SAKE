@@ -1,0 +1,44 @@
+"image": {
+  "topic": "linkedin banner",
+  "aspect_ratio": "1584:396",
+  "background": "terminal with code - background color #1B1D1E and text color #82B414",
+  "layout": {
+    "top": {
+      "content": {
+        "text": "C Assembly BASIC PCB",
+      },
+      "align": "center",
+      "font": {
+        "type": "Arial",
+        "size": 10
+      }
+    },
+    "center": {
+      "first_line": {
+        "text": "Software Engineer",
+        "font": "Montserrat",
+        "size": "12",
+        "align": "right"
+      },
+      "second_line": {
+        "text": "4+ years of experience",
+        "font": "Sans",
+        "size": 10,
+        "align": "right"
+      }
+    },
+    "right": {
+      "type": "colored official logos, no fill, no borders",
+      "skills":  {
+        "data": ["C", "BASIC", "Assembly", "PCB"],
+        "alignment": "grid"
+      }
+    },
+    "bottom": {
+      "type": "text",
+      "content": "email@gmail.com",
+      "margin-right": "50px"
+    }
+  }
+}
+
