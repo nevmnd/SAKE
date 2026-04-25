@@ -1,5 +1,9 @@
 # SAKE – Swiss-Army Knife for Employment
 
+![SAKE](SAKE.png)  
+
+---
+
 **SAKE** is a modular, all-in-one toolkit designed to support job seekers navigating the employment landscape. From crafting resumes to optimizing LinkedIn profiles, SAKE serves as a multi-functional platform - just like a Swiss Army knife for your career.  
 Currently under development.
 
